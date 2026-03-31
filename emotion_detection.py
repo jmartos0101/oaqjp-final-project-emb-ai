@@ -50,7 +50,7 @@ def emotion_detector(text_to_analyse): # URL del servicio de análisis de sentim
 
 
 #print(emotion_detector("i love you"))
-#from SentimentAnalysis.sentiment_analysis import sentiment_analyzer
+#from emotion_detection import emotion_detector
 #import unittest
 
 
